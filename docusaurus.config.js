@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/svl-icon.png',
 
   // Set the production url of your site here
-  url: 'https://eguru.svlpro.online',
+  url: 'https://svl-automations.github.io/eguru/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
