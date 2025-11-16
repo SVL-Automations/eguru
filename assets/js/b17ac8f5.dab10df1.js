@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeguru=self.webpackChunkeguru||[]).push([[9857],{4942:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/eguru/blog/tags/hola","allTagsPath":"/eguru/blog/tags","count":1,"unlisted":false}')}}]);

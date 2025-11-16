@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeguru=self.webpackChunkeguru||[]).push([[6648],{8915:u=>{u.exports=JSON.parse('{"label":"docusaurus","permalink":"/eguru/blog/tags/docusaurus","allTagsPath":"/eguru/blog/tags","count":4,"unlisted":false}')}}]);
